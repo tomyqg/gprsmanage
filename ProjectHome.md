@@ -1,0 +1,1 @@
+PPP  dial-up ; auto-apn; SMS; VOICE; ctrl thread .
